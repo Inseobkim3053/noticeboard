@@ -1,0 +1,13 @@
+.wrapper {
+    width: 800px;
+    margin: auto;
+
+}
+
+.wrapper2 {
+    width: 600px;
+    height: 500px;
+    display: block;
+    padding-top: 80px;
+    margin: auto;
+}
